@@ -1,0 +1,59 @@
+{
+  "login": [
+    {
+      "name": "Sam",
+      "password": "sam@2000"
+    }
+  ],
+  "restauranst": [
+    {
+      "name": "Pizza hot",
+      "email": "pizzahot@email.com",
+      "rating": "4.0",
+      "address": "Noida",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.3",
+      "email": "mcdonald@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Domino's Pizza",
+      "address": "Bangalore",
+      "rating": "4.3",
+      "email": "dominospizza@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Meghna Biriani",
+      "address": "Bangalore",
+      "rating": "4.5",
+      "email": "meghnabiriani@email.com"
+    },
+    {
+      "name": "Ambur Biriani",
+      "email": "amburbiriani@email.com",
+      "rating": "3.5",
+      "address": "Bangalore",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Pizzahots",
+      "address": "Pune",
+      "rating": "4.5",
+      "email": "pizzahot@email.com"
+    },
+    {
+      "name": "ChickenLovers",
+      "email": "chickenlovers@email.com",
+      "rating": "4.0",
+      "address": "Odisha",
+      "id": 7
+    }
+  ]
+}

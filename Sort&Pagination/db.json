@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Rohit",
+            "email": "rohit@mail.com",
+            "phone": "9898766700",
+            "address": "India",
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "name": "Biki",
+            "email": "biki@mail.com",
+            "phone": "9898556700",
+            "address": "India",
+            "status": "Inactive"
+        },
+        {
+            "id": 3,
+            "name": "Dinesh",
+            "email": "dinesh@mail.com",
+            "phone": "7898126700",
+            "address": "India",
+            "status": "Active"
+        },
+        {
+            "id": 4,
+            "name": "Sekhar",
+            "email": "sekhar@mail.com",
+            "phone": "9987556700",
+            "address": "India",
+            "status": "Active"
+        },
+        {
+            "id": 5,
+            "name": "Pragya",
+            "email": "pragya@mail.com",
+            "phone": "8111474709",
+            "address": "India",
+            "status": "Inactive"
+        },
+        {
+            "id": 6,
+            "name": "Priyanka",
+            "email": "priyanka@mail.com",
+            "phone": "9898556708",
+            "address": "India",
+            "status": "Inactive"
+        },
+        {
+            "id": 7,
+            "name": "Anushka",
+            "email": "anushka@mail.com",
+            "phone": "9898776609",
+            "address": "India",
+            "status": "Active"
+        },
+        {
+            "id": 8,
+            "name": "Soheb",
+            "email": "soheb@mail.com",
+            "phone": "9898112204",
+            "address": "India",
+            "status": "Active"
+        },
+        {
+            "id": 9,
+            "name": "Subham",
+            "email": "subham@mail.com",
+            "phone": "7898556788",
+            "address": "India",
+            "status": "Inactive"
+        },
+        {
+            "id": 10,
+            "name": "Kajal",
+            "email": "kajal@mail.com",
+            "phone": "7878556700",
+            "address": "India",
+            "status": "Inactive"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+.tabs{
+    display: flex;
+    width: 100%;
+    margin-top: 39px
+}
+
+.tab{
+    border: 1px solid black;
+    border-radius:5px;
+    margin-left: 40px;
+    width: 110px;
+    text-align: center;
+}
+.active{
+background-color: #17a2b8;
+color: white;
+}

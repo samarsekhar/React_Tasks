@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Culver Inkster",
+            "email": "cinkster0@cbc.ca",
+            "phone": "806-252-1924",
+            "address": "Gotland",
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "name": "Oriana Mellanby",
+            "email": "omellanby1@google.cn",
+            "phone": "317-671-1256",
+            "address": "Indiana",
+            "status": "Inactive"
+        },
+        {
+            "id": 3,
+            "name": "Deb Dullard",
+            "email": "ddullard2@hibu.com",
+            "phone": "317-812-7721",
+            "address": "Indiana",
+            "status": "Active"
+        },
+        {
+            "id": 4,
+            "name": "Bess Dahlborg",
+            "email": "bdahlborg3@de.vu",
+            "phone": "219-586-6155",
+            "address": "Indiana",
+            "status": "Inactive"
+        },
+        {
+            "id": 5,
+            "name": "Rutger Trasler",
+            "email": "rtrasler4@marketwatch.com",
+            "phone": "317-113-9047",
+            "address": "Indiana",
+            "status": "Inactive"
+        },
+        {
+            "id": 6,
+            "name": "Cynthy Macrae",
+            "email": "cmacrae5@redcross.org",
+            "phone": "759-412-6875",
+            "address": "Gotland",
+            "status": "Active"
+        },
+        {
+            "id": 7,
+            "name": "Aubrette Tschierasche",
+            "email": "atschierasche6@harvard.edu",
+            "phone": "812-990-7775",
+            "address": "Indiana",
+            "status": "Active"
+        },
+        {
+            "id": 8,
+            "name": "Christoph Vakhonin",
+            "email": "cvakhonin7@yahoo.com",
+            "phone": "260-379-8316",
+            "address": "Indiana",
+            "status": "Inactive"
+        },
+        {
+            "id": 9,
+            "name": "Karola Morkham",
+            "email": "kmorkham8@geocities.jp",
+            "phone": "812-197-5903",
+            "address": "Indiana",
+            "status": "Inactive"
+        },
+        {
+            "id": 10,
+            "name": "Louisa Arnholtz",
+            "email": "larnholtz9@issuu.com",
+            "phone": "812-724-3988",
+            "address": "Indiana",
+            "status": "Inactive"
+        },
+        {
+            "id": 11,
+            "name": "Priyanka",
+            "email": "priyanka@mail.com",
+            "phone": "213-536-6155",
+            "address": "India",
+            "status": "Active"
+        },
+        {
+            "id": 12,
+            "name": "Alia",
+            "email": "cinkster0@cbc.com",
+            "phone": "260-379-8323",
+            "address": "India",
+            "status": "Active"
+        }
+    ]
+}

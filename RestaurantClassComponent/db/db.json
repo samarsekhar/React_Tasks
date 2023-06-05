@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "anil",
+      "password": "1234565"
+    }
+  ],
+  "restauranst": [
+    {
+      "id": 1,
+      "name": "Pizza hot",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahot@email.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.3",
+      "email": "mcdonald@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Domino's Pizza",
+      "address": "Bangalore",
+      "rating": "4.3",
+      "email": "dominospizza@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Meghna Biriani",
+      "address": "Bangalore",
+      "rating": "4.5",
+      "email": "meghnabiriani@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Ambur Biriani",
+      "address": "Bangalore",
+      "rating": "4.0",
+      "email": "amburbiriani@email.com"
+    }
+  ]
+}
